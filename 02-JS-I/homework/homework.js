@@ -229,7 +229,7 @@ function deEuroAdolar(euro){
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
   var dolar = 1.20
-  var cambio = (euro * dolar)
+  var cambio = euro * dolar
   return cambio
 }
 
